@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\bin\Debug\TurAgent.exe.config
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\bin\Debug\TurAgent.exe
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\bin\Debug\TurAgent.pdb
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.Properties.Resources.resources
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.exe
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.pdb
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.Form2.resources
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.Form3.resources
+C:\Users\ACER\Desktop\Project\TurAgent\TurAgent\obj\Debug\TurAgent.Form1.resources
